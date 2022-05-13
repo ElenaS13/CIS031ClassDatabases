@@ -10,8 +10,7 @@ The class is using Oracle Academy in lieu of any text books: https://academy.ora
 
 ### Summary From Codeacademy:
 
-Review
-Congratulations! We’ve learned six commands commonly used to manage data stored in a relational database and how to set constraints on such data. What can we generalize so far?
+We’ve learned six commands commonly used to manage data stored in a relational database and how to set constraints on such data. What can we generalize so far?
 
 SQL is a programming language designed to manipulate and manage data stored in relational databases.
 
